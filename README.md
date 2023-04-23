@@ -1,4 +1,5 @@
-# Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+# Briefly explain the work that you did on this project:
+- <strong>What code were you given? What code did you create yourself?</strong></br>
 The work I did on this project was implementing a deep Q-learning algorithm to find the best possible path on a treasure map to reach the treasure. The code given included an implementation of the pirate maze game, a storage class for each run through the game, and a mostly completed Jupyter Notebook. I finished the notebook by completing the deep Q-leaning algorithm, including choosing between exploration or exploitation, obtaining feedback from the environment, and training the algorithm through many epochs using the feedback.
 # Connect your learning from throughout this course to the larger field of computer science:
 - <strong>What do computer scientists do and why does it matter?</strong></br>
